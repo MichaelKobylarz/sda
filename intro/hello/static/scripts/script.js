@@ -1,0 +1,1 @@
+alert("Cześć chcesz wiedzieć czy dziś jest nowy rok?")
